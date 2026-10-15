@@ -1,0 +1,1521 @@
+{
+  "program": "SP-01",
+  "runs": 100,
+  "planted_effect": 0.08,
+  "planted_cannibalisation": 0.3,
+  "recovery_target_ci_covers_truth": 100,
+  "recovery_total_ci_covers_truth": 97,
+  "power_total_significant": 18,
+  "power_target_significant": 95,
+  "null_runs": 100,
+  "null_total_not_significant": 100,
+  "placebo_not_significant": 98,
+  "balance_passed": 100,
+  "mean_true_att_total": 1040.8693776009543,
+  "mean_att_total": 1158.9562433637357,
+  "mean_true_att_target": 1486.9562537156492,
+  "mean_att_target": 1481.9504636844933,
+  "mean_naive_treated_vs_untreated": 12173.313291274375,
+  "per_run": [
+    {
+      "seed": 1000,
+      "true_att_target": 1433.34,
+      "att_target": 1621.01,
+      "target_ci": [
+        811.87,
+        2430.15
+      ],
+      "true_att_total": 1003.34,
+      "att_total": 1050.03,
+      "total_ci": [
+        -460.93,
+        2560.99
+      ]
+    },
+    {
+      "seed": 1001,
+      "true_att_target": 1500.04,
+      "att_target": 1677.57,
+      "target_ci": [
+        484.17,
+        2870.98
+      ],
+      "true_att_total": 1050.03,
+      "att_total": 1502.02,
+      "total_ci": [
+        -717.72,
+        3721.76
+      ]
+    },
+    {
+      "seed": 1002,
+      "true_att_target": 1649.87,
+      "att_target": 2028.36,
+      "target_ci": [
+        936.42,
+        3120.29
+      ],
+      "true_att_total": 1154.91,
+      "att_total": 1086.69,
+      "total_ci": [
+        -860.95,
+        3034.33
+      ]
+    },
+    {
+      "seed": 1003,
+      "true_att_target": 1617.32,
+      "att_target": 1889.19,
+      "target_ci": [
+        851.05,
+        2927.33
+      ],
+      "true_att_total": 1132.13,
+      "att_total": 1051.3,
+      "total_ci": [
+        -1099.04,
+        3201.64
+      ]
+    },
+    {
+      "seed": 1004,
+      "true_att_target": 1466.83,
+      "att_target": 1542.88,
+      "target_ci": [
+        726.65,
+        2359.11
+      ],
+      "true_att_total": 1026.78,
+      "att_total": 1099.0,
+      "total_ci": [
+        -454.7,
+        2652.71
+      ]
+    },
+    {
+      "seed": 1005,
+      "true_att_target": 1404.7,
+      "att_target": 1065.6,
+      "target_ci": [
+        99.22,
+        2031.98
+      ],
+      "true_att_total": 983.29,
+      "att_total": 1618.51,
+      "total_ci": [
+        -414.38,
+        3651.39
+      ]
+    },
+    {
+      "seed": 1006,
+      "true_att_target": 1444.55,
+      "att_target": 1557.29,
+      "target_ci": [
+        722.97,
+        2391.6
+      ],
+      "true_att_total": 1011.19,
+      "att_total": 1419.64,
+      "total_ci": [
+        -343.28,
+        3182.57
+      ]
+    },
+    {
+      "seed": 1007,
+      "true_att_target": 1518.17,
+      "att_target": 1243.77,
+      "target_ci": [
+        324.12,
+        2163.42
+      ],
+      "true_att_total": 1062.72,
+      "att_total": 514.73,
+      "total_ci": [
+        -1184.0,
+        2213.46
+      ]
+    },
+    {
+      "seed": 1008,
+      "true_att_target": 1338.12,
+      "att_target": 1294.87,
+      "target_ci": [
+        319.73,
+        2270.01
+      ],
+      "true_att_total": 936.69,
+      "att_total": 2281.47,
+      "total_ci": [
+        83.44,
+        4479.5
+      ]
+    },
+    {
+      "seed": 1009,
+      "true_att_target": 1424.23,
+      "att_target": 1157.51,
+      "target_ci": [
+        449.53,
+        1865.48
+      ],
+      "true_att_total": 996.96,
+      "att_total": 382.25,
+      "total_ci": [
+        -1204.95,
+        1969.45
+      ]
+    },
+    {
+      "seed": 1010,
+      "true_att_target": 1493.94,
+      "att_target": 1772.37,
+      "target_ci": [
+        876.15,
+        2668.59
+      ],
+      "true_att_total": 1045.76,
+      "att_total": 1501.71,
+      "total_ci": [
+        -493.12,
+        3496.54
+      ]
+    },
+    {
+      "seed": 1011,
+      "true_att_target": 1568.57,
+      "att_target": 940.59,
+      "target_ci": [
+        -4.63,
+        1885.8
+      ],
+      "true_att_total": 1098.0,
+      "att_total": 330.34,
+      "total_ci": [
+        -1629.74,
+        2290.41
+      ]
+    },
+    {
+      "seed": 1012,
+      "true_att_target": 1368.67,
+      "att_target": 1012.43,
+      "target_ci": [
+        158.59,
+        1866.28
+      ],
+      "true_att_total": 958.07,
+      "att_total": 731.4,
+      "total_ci": [
+        -1130.2,
+        2593.0
+      ]
+    },
+    {
+      "seed": 1013,
+      "true_att_target": 1703.6,
+      "att_target": 2030.37,
+      "target_ci": [
+        963.79,
+        3096.95
+      ],
+      "true_att_total": 1192.52,
+      "att_total": 1544.06,
+      "total_ci": [
+        -786.74,
+        3874.85
+      ]
+    },
+    {
+      "seed": 1014,
+      "true_att_target": 1650.61,
+      "att_target": 1247.78,
+      "target_ci": [
+        206.85,
+        2288.72
+      ],
+      "true_att_total": 1155.42,
+      "att_total": 776.79,
+      "total_ci": [
+        -1110.13,
+        2663.72
+      ]
+    },
+    {
+      "seed": 1015,
+      "true_att_target": 1304.05,
+      "att_target": 1403.35,
+      "target_ci": [
+        587.37,
+        2219.33
+      ],
+      "true_att_total": 912.83,
+      "att_total": 1242.37,
+      "total_ci": [
+        -335.89,
+        2820.62
+      ]
+    },
+    {
+      "seed": 1016,
+      "true_att_target": 1488.51,
+      "att_target": 1404.92,
+      "target_ci": [
+        400.28,
+        2409.57
+      ],
+      "true_att_total": 1041.96,
+      "att_total": 963.16,
+      "total_ci": [
+        -1096.99,
+        3023.31
+      ]
+    },
+    {
+      "seed": 1017,
+      "true_att_target": 1467.26,
+      "att_target": 1071.09,
+      "target_ci": [
+        242.58,
+        1899.6
+      ],
+      "true_att_total": 1027.08,
+      "att_total": 1177.59,
+      "total_ci": [
+        -466.88,
+        2822.06
+      ]
+    },
+    {
+      "seed": 1018,
+      "true_att_target": 1533.01,
+      "att_target": 1390.45,
+      "target_ci": [
+        515.5,
+        2265.41
+      ],
+      "true_att_total": 1073.11,
+      "att_total": 760.95,
+      "total_ci": [
+        -733.26,
+        2255.16
+      ]
+    },
+    {
+      "seed": 1019,
+      "true_att_target": 1458.3,
+      "att_target": 1514.86,
+      "target_ci": [
+        706.3,
+        2323.41
+      ],
+      "true_att_total": 1020.81,
+      "att_total": 1057.38,
+      "total_ci": [
+        -576.34,
+        2691.1
+      ]
+    },
+    {
+      "seed": 1020,
+      "true_att_target": 1494.87,
+      "att_target": 1670.84,
+      "target_ci": [
+        865.35,
+        2476.34
+      ],
+      "true_att_total": 1046.41,
+      "att_total": 1507.88,
+      "total_ci": [
+        -101.63,
+        3117.38
+      ]
+    },
+    {
+      "seed": 1021,
+      "true_att_target": 1755.6,
+      "att_target": 2351.45,
+      "target_ci": [
+        1139.23,
+        3563.67
+      ],
+      "true_att_total": 1228.92,
+      "att_total": 2677.37,
+      "total_ci": [
+        191.52,
+        5163.22
+      ]
+    },
+    {
+      "seed": 1022,
+      "true_att_target": 1388.36,
+      "att_target": 1496.51,
+      "target_ci": [
+        463.72,
+        2529.3
+      ],
+      "true_att_total": 971.85,
+      "att_total": 927.53,
+      "total_ci": [
+        -817.35,
+        2672.41
+      ]
+    },
+    {
+      "seed": 1023,
+      "true_att_target": 1385.59,
+      "att_target": 954.4,
+      "target_ci": [
+        20.12,
+        1888.67
+      ],
+      "true_att_total": 969.91,
+      "att_total": 320.16,
+      "total_ci": [
+        -1409.87,
+        2050.19
+      ]
+    },
+    {
+      "seed": 1024,
+      "true_att_target": 1394.71,
+      "att_target": 1404.52,
+      "target_ci": [
+        505.89,
+        2303.15
+      ],
+      "true_att_total": 976.29,
+      "att_total": 306.07,
+      "total_ci": [
+        -1426.95,
+        2039.1
+      ]
+    },
+    {
+      "seed": 1025,
+      "true_att_target": 1317.9,
+      "att_target": 1154.84,
+      "target_ci": [
+        429.15,
+        1880.53
+      ],
+      "true_att_total": 922.53,
+      "att_total": 973.05,
+      "total_ci": [
+        -670.2,
+        2616.29
+      ]
+    },
+    {
+      "seed": 1026,
+      "true_att_target": 1647.71,
+      "att_target": 1855.14,
+      "target_ci": [
+        936.09,
+        2774.18
+      ],
+      "true_att_total": 1153.4,
+      "att_total": 1345.64,
+      "total_ci": [
+        -564.7,
+        3255.98
+      ]
+    },
+    {
+      "seed": 1027,
+      "true_att_target": 1722.37,
+      "att_target": 1686.62,
+      "target_ci": [
+        655.01,
+        2718.22
+      ],
+      "true_att_total": 1205.66,
+      "att_total": 1199.85,
+      "total_ci": [
+        -911.01,
+        3310.7
+      ]
+    },
+    {
+      "seed": 1028,
+      "true_att_target": 1538.16,
+      "att_target": 1757.84,
+      "target_ci": [
+        894.95,
+        2620.73
+      ],
+      "true_att_total": 1076.71,
+      "att_total": 1183.92,
+      "total_ci": [
+        -403.77,
+        2771.6
+      ]
+    },
+    {
+      "seed": 1029,
+      "true_att_target": 1521.71,
+      "att_target": 1890.07,
+      "target_ci": [
+        1090.58,
+        2689.56
+      ],
+      "true_att_total": 1065.2,
+      "att_total": 1495.26,
+      "total_ci": [
+        -372.93,
+        3363.45
+      ]
+    },
+    {
+      "seed": 1030,
+      "true_att_target": 1471.65,
+      "att_target": 1266.27,
+      "target_ci": [
+        248.85,
+        2283.69
+      ],
+      "true_att_total": 1030.15,
+      "att_total": 142.24,
+      "total_ci": [
+        -1655.7,
+        1940.18
+      ]
+    },
+    {
+      "seed": 1031,
+      "true_att_target": 1454.7,
+      "att_target": 1376.61,
+      "target_ci": [
+        485.33,
+        2267.9
+      ],
+      "true_att_total": 1018.29,
+      "att_total": 1320.71,
+      "total_ci": [
+        -962.96,
+        3604.37
+      ]
+    },
+    {
+      "seed": 1032,
+      "true_att_target": 1366.16,
+      "att_target": 713.9,
+      "target_ci": [
+        -174.03,
+        1601.83
+      ],
+      "true_att_total": 956.31,
+      "att_total": -438.36,
+      "total_ci": [
+        -2252.82,
+        1376.1
+      ]
+    },
+    {
+      "seed": 1033,
+      "true_att_target": 1546.8,
+      "att_target": 1735.0,
+      "target_ci": [
+        903.17,
+        2566.84
+      ],
+      "true_att_total": 1082.76,
+      "att_total": 1502.17,
+      "total_ci": [
+        -336.36,
+        3340.7
+      ]
+    },
+    {
+      "seed": 1034,
+      "true_att_target": 1663.89,
+      "att_target": 1665.57,
+      "target_ci": [
+        604.17,
+        2726.97
+      ],
+      "true_att_total": 1164.72,
+      "att_total": 1159.94,
+      "total_ci": [
+        -842.79,
+        3162.66
+      ]
+    },
+    {
+      "seed": 1035,
+      "true_att_target": 1446.16,
+      "att_target": 2164.5,
+      "target_ci": [
+        1110.05,
+        3218.95
+      ],
+      "true_att_total": 1012.31,
+      "att_total": 1882.5,
+      "total_ci": [
+        -72.84,
+        3837.84
+      ]
+    },
+    {
+      "seed": 1036,
+      "true_att_target": 1408.59,
+      "att_target": 1291.06,
+      "target_ci": [
+        287.18,
+        2294.93
+      ],
+      "true_att_total": 986.01,
+      "att_total": 832.09,
+      "total_ci": [
+        -866.84,
+        2531.03
+      ]
+    },
+    {
+      "seed": 1037,
+      "true_att_target": 1303.46,
+      "att_target": 1347.2,
+      "target_ci": [
+        495.4,
+        2198.99
+      ],
+      "true_att_total": 912.43,
+      "att_total": 2370.34,
+      "total_ci": [
+        605.08,
+        4135.59
+      ]
+    },
+    {
+      "seed": 1038,
+      "true_att_target": 1662.61,
+      "att_target": 1617.34,
+      "target_ci": [
+        631.88,
+        2602.81
+      ],
+      "true_att_total": 1163.83,
+      "att_total": 1907.0,
+      "total_ci": [
+        -262.96,
+        4076.96
+      ]
+    },
+    {
+      "seed": 1039,
+      "true_att_target": 1496.62,
+      "att_target": 1014.89,
+      "target_ci": [
+        119.74,
+        1910.05
+      ],
+      "true_att_total": 1047.64,
+      "att_total": 1350.54,
+      "total_ci": [
+        -622.56,
+        3323.63
+      ]
+    },
+    {
+      "seed": 1040,
+      "true_att_target": 1286.68,
+      "att_target": 783.86,
+      "target_ci": [
+        -71.58,
+        1639.3
+      ],
+      "true_att_total": 900.67,
+      "att_total": 650.2,
+      "total_ci": [
+        -1196.3,
+        2496.7
+      ]
+    },
+    {
+      "seed": 1041,
+      "true_att_target": 1494.27,
+      "att_target": 1006.59,
+      "target_ci": [
+        123.04,
+        1890.14
+      ],
+      "true_att_total": 1045.99,
+      "att_total": 1431.31,
+      "total_ci": [
+        -286.41,
+        3149.03
+      ]
+    },
+    {
+      "seed": 1042,
+      "true_att_target": 1451.89,
+      "att_target": 1490.83,
+      "target_ci": [
+        615.45,
+        2366.21
+      ],
+      "true_att_total": 1016.32,
+      "att_total": 133.39,
+      "total_ci": [
+        -1764.11,
+        2030.9
+      ]
+    },
+    {
+      "seed": 1043,
+      "true_att_target": 1461.08,
+      "att_target": 1204.88,
+      "target_ci": [
+        473.4,
+        1936.36
+      ],
+      "true_att_total": 1022.76,
+      "att_total": 385.66,
+      "total_ci": [
+        -1077.97,
+        1849.29
+      ]
+    },
+    {
+      "seed": 1044,
+      "true_att_target": 1573.36,
+      "att_target": 2535.09,
+      "target_ci": [
+        1520.78,
+        3549.4
+      ],
+      "true_att_total": 1101.35,
+      "att_total": 3032.37,
+      "total_ci": [
+        1206.54,
+        4858.19
+      ]
+    },
+    {
+      "seed": 1045,
+      "true_att_target": 1501.18,
+      "att_target": 1653.92,
+      "target_ci": [
+        794.01,
+        2513.83
+      ],
+      "true_att_total": 1050.83,
+      "att_total": 2111.61,
+      "total_ci": [
+        225.48,
+        3997.75
+      ]
+    },
+    {
+      "seed": 1046,
+      "true_att_target": 1199.15,
+      "att_target": 1153.98,
+      "target_ci": [
+        490.47,
+        1817.48
+      ],
+      "true_att_total": 839.41,
+      "att_total": 779.66,
+      "total_ci": [
+        -791.73,
+        2351.06
+      ]
+    },
+    {
+      "seed": 1047,
+      "true_att_target": 1488.12,
+      "att_target": 1408.86,
+      "target_ci": [
+        500.11,
+        2317.62
+      ],
+      "true_att_total": 1041.69,
+      "att_total": 742.18,
+      "total_ci": [
+        -1133.34,
+        2617.71
+      ]
+    },
+    {
+      "seed": 1048,
+      "true_att_target": 1487.53,
+      "att_target": 1666.37,
+      "target_ci": [
+        822.76,
+        2509.97
+      ],
+      "true_att_total": 1041.27,
+      "att_total": 880.54,
+      "total_ci": [
+        -746.78,
+        2507.87
+      ]
+    },
+    {
+      "seed": 1049,
+      "true_att_target": 1360.51,
+      "att_target": 1455.9,
+      "target_ci": [
+        500.23,
+        2411.57
+      ],
+      "true_att_total": 952.36,
+      "att_total": 1291.33,
+      "total_ci": [
+        -532.72,
+        3115.38
+      ]
+    },
+    {
+      "seed": 1050,
+      "true_att_target": 1518.52,
+      "att_target": 1348.58,
+      "target_ci": [
+        427.59,
+        2269.57
+      ],
+      "true_att_total": 1062.96,
+      "att_total": 1767.18,
+      "total_ci": [
+        -173.28,
+        3707.64
+      ]
+    },
+    {
+      "seed": 1051,
+      "true_att_target": 1320.15,
+      "att_target": 765.03,
+      "target_ci": [
+        -7.72,
+        1537.78
+      ],
+      "true_att_total": 924.1,
+      "att_total": -14.58,
+      "total_ci": [
+        -1701.13,
+        1671.97
+      ]
+    },
+    {
+      "seed": 1052,
+      "true_att_target": 1501.76,
+      "att_target": 1725.36,
+      "target_ci": [
+        845.42,
+        2605.3
+      ],
+      "true_att_total": 1051.23,
+      "att_total": 1646.12,
+      "total_ci": [
+        -153.94,
+        3446.17
+      ]
+    },
+    {
+      "seed": 1053,
+      "true_att_target": 1515.78,
+      "att_target": 1626.88,
+      "target_ci": [
+        658.46,
+        2595.29
+      ],
+      "true_att_total": 1061.05,
+      "att_total": 640.87,
+      "total_ci": [
+        -1338.91,
+        2620.64
+      ]
+    },
+    {
+      "seed": 1054,
+      "true_att_target": 1598.07,
+      "att_target": 2194.64,
+      "target_ci": [
+        1215.28,
+        3174.0
+      ],
+      "true_att_total": 1118.65,
+      "att_total": 2201.59,
+      "total_ci": [
+        226.26,
+        4176.92
+      ]
+    },
+    {
+      "seed": 1055,
+      "true_att_target": 1429.05,
+      "att_target": 1393.01,
+      "target_ci": [
+        554.11,
+        2231.91
+      ],
+      "true_att_total": 1000.34,
+      "att_total": 696.7,
+      "total_ci": [
+        -855.57,
+        2248.96
+      ]
+    },
+    {
+      "seed": 1056,
+      "true_att_target": 1652.0,
+      "att_target": 1836.48,
+      "target_ci": [
+        766.13,
+        2906.82
+      ],
+      "true_att_total": 1156.4,
+      "att_total": 893.62,
+      "total_ci": [
+        -1404.21,
+        3191.44
+      ]
+    },
+    {
+      "seed": 1057,
+      "true_att_target": 1453.48,
+      "att_target": 1255.89,
+      "target_ci": [
+        179.18,
+        2332.61
+      ],
+      "true_att_total": 1017.43,
+      "att_total": 2326.19,
+      "total_ci": [
+        214.75,
+        4437.64
+      ]
+    },
+    {
+      "seed": 1058,
+      "true_att_target": 1671.0,
+      "att_target": 1748.21,
+      "target_ci": [
+        814.73,
+        2681.7
+      ],
+      "true_att_total": 1169.7,
+      "att_total": 983.13,
+      "total_ci": [
+        -887.5,
+        2853.75
+      ]
+    },
+    {
+      "seed": 1059,
+      "true_att_target": 1505.38,
+      "att_target": 1593.44,
+      "target_ci": [
+        735.22,
+        2451.66
+      ],
+      "true_att_total": 1053.77,
+      "att_total": 1395.12,
+      "total_ci": [
+        -402.52,
+        3192.77
+      ]
+    },
+    {
+      "seed": 1060,
+      "true_att_target": 1480.78,
+      "att_target": 827.74,
+      "target_ci": [
+        3.7,
+        1651.78
+      ],
+      "true_att_total": 1036.54,
+      "att_total": -1065.45,
+      "total_ci": [
+        -3047.05,
+        916.15
+      ]
+    },
+    {
+      "seed": 1061,
+      "true_att_target": 1573.61,
+      "att_target": 1088.28,
+      "target_ci": [
+        327.56,
+        1849.01
+      ],
+      "true_att_total": 1101.53,
+      "att_total": -729.03,
+      "total_ci": [
+        -2346.5,
+        888.43
+      ]
+    },
+    {
+      "seed": 1062,
+      "true_att_target": 1525.9,
+      "att_target": 1406.85,
+      "target_ci": [
+        540.74,
+        2272.96
+      ],
+      "true_att_total": 1068.13,
+      "att_total": 1112.22,
+      "total_ci": [
+        -570.6,
+        2795.05
+      ]
+    },
+    {
+      "seed": 1063,
+      "true_att_target": 1447.56,
+      "att_target": 1405.24,
+      "target_ci": [
+        474.32,
+        2336.17
+      ],
+      "true_att_total": 1013.29,
+      "att_total": 697.92,
+      "total_ci": [
+        -1124.59,
+        2520.42
+      ]
+    },
+    {
+      "seed": 1064,
+      "true_att_target": 1471.46,
+      "att_target": 848.27,
+      "target_ci": [
+        4.6,
+        1691.93
+      ],
+      "true_att_total": 1030.02,
+      "att_total": -52.35,
+      "total_ci": [
+        -1616.33,
+        1511.63
+      ]
+    },
+    {
+      "seed": 1065,
+      "true_att_target": 1325.07,
+      "att_target": 1249.84,
+      "target_ci": [
+        449.93,
+        2049.75
+      ],
+      "true_att_total": 927.55,
+      "att_total": 1235.62,
+      "total_ci": [
+        -469.67,
+        2940.92
+      ]
+    },
+    {
+      "seed": 1066,
+      "true_att_target": 1505.13,
+      "att_target": 1596.67,
+      "target_ci": [
+        633.53,
+        2559.81
+      ],
+      "true_att_total": 1053.59,
+      "att_total": 1738.3,
+      "total_ci": [
+        -213.8,
+        3690.41
+      ]
+    },
+    {
+      "seed": 1067,
+      "true_att_target": 1559.98,
+      "att_target": 1049.15,
+      "target_ci": [
+        181.19,
+        1917.11
+      ],
+      "true_att_total": 1091.99,
+      "att_total": 118.97,
+      "total_ci": [
+        -1577.92,
+        1815.85
+      ]
+    },
+    {
+      "seed": 1068,
+      "true_att_target": 1565.45,
+      "att_target": 2062.05,
+      "target_ci": [
+        1220.89,
+        2903.22
+      ],
+      "true_att_total": 1095.81,
+      "att_total": 1576.72,
+      "total_ci": [
+        -153.56,
+        3306.99
+      ]
+    },
+    {
+      "seed": 1069,
+      "true_att_target": 1503.85,
+      "att_target": 1646.1,
+      "target_ci": [
+        737.06,
+        2555.14
+      ],
+      "true_att_total": 1052.7,
+      "att_total": 1096.04,
+      "total_ci": [
+        -509.12,
+        2701.2
+      ]
+    },
+    {
+      "seed": 1070,
+      "true_att_target": 1268.91,
+      "att_target": 1112.4,
+      "target_ci": [
+        356.3,
+        1868.5
+      ],
+      "true_att_total": 888.24,
+      "att_total": -125.65,
+      "total_ci": [
+        -1773.3,
+        1522.0
+      ]
+    },
+    {
+      "seed": 1071,
+      "true_att_target": 1609.46,
+      "att_target": 1301.03,
+      "target_ci": [
+        223.19,
+        2378.86
+      ],
+      "true_att_total": 1126.62,
+      "att_total": -41.21,
+      "total_ci": [
+        -2010.13,
+        1927.71
+      ]
+    },
+    {
+      "seed": 1072,
+      "true_att_target": 1384.82,
+      "att_target": 1226.16,
+      "target_ci": [
+        443.42,
+        2008.9
+      ],
+      "true_att_total": 969.37,
+      "att_total": 787.48,
+      "total_ci": [
+        -995.07,
+        2570.02
+      ]
+    },
+    {
+      "seed": 1073,
+      "true_att_target": 1334.41,
+      "att_target": 1034.15,
+      "target_ci": [
+        247.69,
+        1820.62
+      ],
+      "true_att_total": 934.08,
+      "att_total": 341.42,
+      "total_ci": [
+        -1373.25,
+        2056.08
+      ]
+    },
+    {
+      "seed": 1074,
+      "true_att_target": 1381.65,
+      "att_target": 1629.42,
+      "target_ci": [
+        750.1,
+        2508.74
+      ],
+      "true_att_total": 967.16,
+      "att_total": 1033.16,
+      "total_ci": [
+        -324.79,
+        2391.11
+      ]
+    },
+    {
+      "seed": 1075,
+      "true_att_target": 1525.66,
+      "att_target": 1763.88,
+      "target_ci": [
+        788.64,
+        2739.12
+      ],
+      "true_att_total": 1067.96,
+      "att_total": 1591.4,
+      "total_ci": [
+        -193.19,
+        3375.99
+      ]
+    },
+    {
+      "seed": 1076,
+      "true_att_target": 1407.39,
+      "att_target": 1233.99,
+      "target_ci": [
+        437.13,
+        2030.85
+      ],
+      "true_att_total": 985.17,
+      "att_total": -2.71,
+      "total_ci": [
+        -1672.43,
+        1667.0
+      ]
+    },
+    {
+      "seed": 1077,
+      "true_att_target": 1606.15,
+      "att_target": 2104.19,
+      "target_ci": [
+        1359.85,
+        2848.53
+      ],
+      "true_att_total": 1124.3,
+      "att_total": 1968.77,
+      "total_ci": [
+        289.2,
+        3648.34
+      ]
+    },
+    {
+      "seed": 1078,
+      "true_att_target": 1532.66,
+      "att_target": 1985.42,
+      "target_ci": [
+        1204.23,
+        2766.62
+      ],
+      "true_att_total": 1072.86,
+      "att_total": 2473.12,
+      "total_ci": [
+        765.8,
+        4180.43
+      ]
+    },
+    {
+      "seed": 1079,
+      "true_att_target": 1440.47,
+      "att_target": 1698.05,
+      "target_ci": [
+        853.77,
+        2542.33
+      ],
+      "true_att_total": 1008.33,
+      "att_total": 2138.19,
+      "total_ci": [
+        455.54,
+        3820.83
+      ]
+    },
+    {
+      "seed": 1080,
+      "true_att_target": 1504.82,
+      "att_target": 1063.46,
+      "target_ci": [
+        6.31,
+        2120.62
+      ],
+      "true_att_total": 1053.37,
+      "att_total": 853.77,
+      "total_ci": [
+        -1167.28,
+        2874.81
+      ]
+    },
+    {
+      "seed": 1081,
+      "true_att_target": 1647.53,
+      "att_target": 1612.29,
+      "target_ci": [
+        631.31,
+        2593.28
+      ],
+      "true_att_total": 1153.27,
+      "att_total": 2476.63,
+      "total_ci": [
+        609.56,
+        4343.71
+      ]
+    },
+    {
+      "seed": 1082,
+      "true_att_target": 1479.39,
+      "att_target": 1494.07,
+      "target_ci": [
+        583.35,
+        2404.79
+      ],
+      "true_att_total": 1035.58,
+      "att_total": 917.01,
+      "total_ci": [
+        -801.66,
+        2635.68
+      ]
+    },
+    {
+      "seed": 1083,
+      "true_att_target": 1414.03,
+      "att_target": 1123.01,
+      "target_ci": [
+        181.39,
+        2064.62
+      ],
+      "true_att_total": 989.82,
+      "att_total": 720.23,
+      "total_ci": [
+        -1308.36,
+        2748.83
+      ]
+    },
+    {
+      "seed": 1084,
+      "true_att_target": 1403.31,
+      "att_target": 1285.91,
+      "target_ci": [
+        600.38,
+        1971.44
+      ],
+      "true_att_total": 982.32,
+      "att_total": 1310.06,
+      "total_ci": [
+        -140.56,
+        2760.67
+      ]
+    },
+    {
+      "seed": 1085,
+      "true_att_target": 1553.27,
+      "att_target": 2286.72,
+      "target_ci": [
+        1373.81,
+        3199.62
+      ],
+      "true_att_total": 1087.29,
+      "att_total": 2476.58,
+      "total_ci": [
+        708.63,
+        4244.53
+      ]
+    },
+    {
+      "seed": 1086,
+      "true_att_target": 1586.29,
+      "att_target": 1679.8,
+      "target_ci": [
+        761.48,
+        2598.13
+      ],
+      "true_att_total": 1110.4,
+      "att_total": 914.91,
+      "total_ci": [
+        -947.68,
+        2777.49
+      ]
+    },
+    {
+      "seed": 1087,
+      "true_att_target": 1416.68,
+      "att_target": 1433.65,
+      "target_ci": [
+        568.59,
+        2298.72
+      ],
+      "true_att_total": 991.68,
+      "att_total": 2048.71,
+      "total_ci": [
+        345.44,
+        3751.97
+      ]
+    },
+    {
+      "seed": 1088,
+      "true_att_target": 1417.34,
+      "att_target": 1614.89,
+      "target_ci": [
+        699.22,
+        2530.57
+      ],
+      "true_att_total": 992.14,
+      "att_total": 1825.21,
+      "total_ci": [
+        114.81,
+        3535.62
+      ]
+    },
+    {
+      "seed": 1089,
+      "true_att_target": 1397.13,
+      "att_target": 1274.82,
+      "target_ci": [
+        406.18,
+        2143.45
+      ],
+      "true_att_total": 977.99,
+      "att_total": 1877.97,
+      "total_ci": [
+        125.34,
+        3630.59
+      ]
+    },
+    {
+      "seed": 1090,
+      "true_att_target": 1539.94,
+      "att_target": 2099.11,
+      "target_ci": [
+        957.72,
+        3240.5
+      ],
+      "true_att_total": 1077.96,
+      "att_total": 1762.18,
+      "total_ci": [
+        -281.79,
+        3806.15
+      ]
+    },
+    {
+      "seed": 1091,
+      "true_att_target": 1426.91,
+      "att_target": 2101.97,
+      "target_ci": [
+        1287.55,
+        2916.4
+      ],
+      "true_att_total": 998.84,
+      "att_total": 2376.74,
+      "total_ci": [
+        799.86,
+        3953.63
+      ]
+    },
+    {
+      "seed": 1092,
+      "true_att_target": 1582.5,
+      "att_target": 2288.61,
+      "target_ci": [
+        1236.17,
+        3341.05
+      ],
+      "true_att_total": 1107.75,
+      "att_total": 1824.18,
+      "total_ci": [
+        -498.9,
+        4147.26
+      ]
+    },
+    {
+      "seed": 1093,
+      "true_att_target": 1422.82,
+      "att_target": 1092.01,
+      "target_ci": [
+        413.84,
+        1770.19
+      ],
+      "true_att_total": 995.97,
+      "att_total": 780.4,
+      "total_ci": [
+        -542.03,
+        2102.83
+      ]
+    },
+    {
+      "seed": 1094,
+      "true_att_target": 1705.5,
+      "att_target": 1862.65,
+      "target_ci": [
+        773.93,
+        2951.38
+      ],
+      "true_att_total": 1193.85,
+      "att_total": 2353.55,
+      "total_ci": [
+        23.71,
+        4683.38
+      ]
+    },
+    {
+      "seed": 1095,
+      "true_att_target": 1489.03,
+      "att_target": 1449.8,
+      "target_ci": [
+        669.91,
+        2229.68
+      ],
+      "true_att_total": 1042.32,
+      "att_total": 823.25,
+      "total_ci": [
+        -794.34,
+        2440.83
+      ]
+    },
+    {
+      "seed": 1096,
+      "true_att_target": 1433.23,
+      "att_target": 834.06,
+      "target_ci": [
+        -80.88,
+        1749.0
+      ],
+      "true_att_total": 1003.26,
+      "att_total": -196.3,
+      "total_ci": [
+        -1872.88,
+        1480.28
+      ]
+    },
+    {
+      "seed": 1097,
+      "true_att_target": 1492.94,
+      "att_target": 1326.9,
+      "target_ci": [
+        470.83,
+        2182.97
+      ],
+      "true_att_total": 1045.05,
+      "att_total": 994.65,
+      "total_ci": [
+        -713.45,
+        2702.75
+      ]
+    },
+    {
+      "seed": 1098,
+      "true_att_target": 1560.84,
+      "att_target": 1330.29,
+      "target_ci": [
+        386.7,
+        2273.87
+      ],
+      "true_att_total": 1092.59,
+      "att_total": 2239.06,
+      "total_ci": [
+        19.75,
+        4458.36
+      ]
+    },
+    {
+      "seed": 1099,
+      "true_att_target": 1481.53,
+      "att_target": 1543.5,
+      "target_ci": [
+        670.29,
+        2416.7
+      ],
+      "true_att_total": 1037.07,
+      "att_total": 1592.49,
+      "total_ci": [
+        -258.64,
+        3443.62
+      ]
+    }
+  ]
+}
